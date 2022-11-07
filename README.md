@@ -22,7 +22,7 @@ _hashtag_ e pra fazer h1 h2......
 ### Caracteristicas necessarias:
 
 1. HTML semantico
-        1. Tres anos de experiencia
-        2. Parar com frescura e mimimi
+    1. Tres anos de experiencia
+    2. Parar com frescura e mimimi
 2. CSS
 3. Java script
