@@ -32,3 +32,10 @@ _hashtag_ e pra fazer h1 h2......
 ![Logo JS](img/js.png)
  
  ![Logo JS](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fjavascript-logo%2F&psig=AOvVaw1DlWXp1Tje5YeUCpL1psCT&ust=1667942300127000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKid4LP_nPsCFQAAAAAdAAAAABAE)
+
+ ### Nova lista 
+
+ - [X] Criar Menu
+ - [ ] Pagina de produtos
+ - [X] Pagina principal
+ - [X] Rodaoepe
